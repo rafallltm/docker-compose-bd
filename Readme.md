@@ -1,1 +1,1 @@
-#  Solucoes rapidas com Docker-compose para levantar banco de dados
+#  Solucoes com Docker-compose para levantar banco de dados

@@ -1,4 +1,4 @@
-# Docker-compose Postgres-pgAdmin 
+# Docker-compose PostgreSQL-pgAdmin 
 
 docker-compose up -d
 
